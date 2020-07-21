@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yoursite.com/2020/07/20/hello-world/</loc>
+    <loc>http://guhaijian.github.io/about/index.html</loc>
     
-    <lastmod>2020-07-20T07:17:26.895Z</lastmod>
+    <lastmod>2020-07-21T01:16:16.801Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-07-21T01:13:50.163Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/link/index.html</loc>
+    
+    <lastmod>2020-07-21T01:13:24.978Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-07-21T01:10:50.371Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/music/index.html</loc>
+    
+    <lastmod>2020-07-20T16:51:14.093Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/photo/index.html</loc>
+    
+    <lastmod>2020-07-20T15:43:20.400Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/2020/07/20/%E9%9D%A2%E8%AF%95%E5%B8%B8%E7%94%A8%E5%8D%95%E8%AF%8D/</loc>
+    
+    <lastmod>2020-07-20T15:35:09.480Z</lastmod>
     
   </url>
   
