@@ -2,16 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://guhaijian.github.io/2020/07/20/%E5%89%8D%E7%AB%AF%E5%B8%B8%E8%A7%81%E5%8D%95%E8%AF%8D/</loc>
+    <loc>http://guhaijian.github.io/2020/07/26/%E5%8F%8C%E5%90%91%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A/</loc>
     
-    <lastmod>2020-07-23T03:49:19.417Z</lastmod>
+    <lastmod>2020-07-26T08:26:16.769Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/2020/07/26/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AF%E9%98%9F%E5%88%97/</loc>
+    
+    <lastmod>2020-07-26T08:25:22.272Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/2020/07/26/js%E4%BA%8B%E4%BB%B6%E7%BB%91%E5%AE%9A%E5%92%8C%E4%BA%8B%E4%BB%B6%E5%A7%94%E6%89%98/</loc>
+    
+    <lastmod>2020-07-26T08:23:49.383Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://guhaijian.github.io/2020/07/23/MVC%E3%80%81MVP%E3%80%81MVVM%E6%9E%B6%E6%9E%84%E6%A8%A1%E5%BC%8F/</loc>
     
-    <lastmod>2020-07-23T03:47:47.712Z</lastmod>
+    <lastmod>2020-07-26T08:23:40.303Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/2020/07/26/vue%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/</loc>
+    
+    <lastmod>2020-07-26T08:23:29.788Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/2020/07/26/%E5%88%A9%E7%94%A8async%E5%92%8Cawite%E5%8F%91%E9%80%81axios%E8%AF%B7%E6%B1%82/</loc>
+    
+    <lastmod>2020-07-26T08:23:00.660Z</lastmod>
     
   </url>
   
