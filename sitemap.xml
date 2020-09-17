@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://guhaijian.github.io/2020/09/12/4.%20%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%96%B0%E9%97%BB%E5%A4%B4%E6%9D%A1(Profile%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83)/</loc>
+    
+    <lastmod>2020-09-17T00:02:31.710Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://guhaijian.github.io/2020/09/12/3.%20%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%96%B0%E9%97%BB%E5%A4%B4%E6%9D%A1(Register%E6%B3%A8%E5%86%8C%E9%A1%B5)/</loc>
+    
+    <lastmod>2020-09-17T00:01:25.641Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://guhaijian.github.io/2020/09/12/webpack%E9%85%8D%E7%BD%AE%E5%85%A8%E6%8C%87%E5%8D%97/</loc>
     
     <lastmod>2020-09-12T12:59:42.814Z</lastmod>
@@ -61,20 +75,6 @@
     <loc>http://guhaijian.github.io/2020/09/12/2.%20%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE(category%E5%88%86%E7%B1%BB%E9%A1%B5)/</loc>
     
     <lastmod>2020-09-12T12:54:02.822Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://guhaijian.github.io/2020/09/12/3.%20%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%96%B0%E9%97%BB%E5%A4%B4%E6%9D%A1(Register%E6%B3%A8%E5%86%8C%E9%A1%B5)/</loc>
-    
-    <lastmod>2020-09-12T12:44:16.626Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://guhaijian.github.io/2020/09/12/4.%20%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E6%96%B0%E9%97%BB%E5%A4%B4%E6%9D%A1(Profile%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83)/</loc>
-    
-    <lastmod>2020-09-12T12:44:15.153Z</lastmod>
     
   </url>
   
